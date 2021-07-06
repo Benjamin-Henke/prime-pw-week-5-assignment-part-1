@@ -54,4 +54,4 @@ console.log('New current pairs of shoes:', me.shoeCount)
 */
 
 me.favoriteColor = 'white';
-console.log('My favorite color is:', me);
+console.log('Update about me:', me);
